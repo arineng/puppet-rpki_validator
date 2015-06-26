@@ -13,7 +13,7 @@
       "version_requirement":">= 1.0.0"
     },
     {
-      "name": "puppet-community/archive",
+      "name": "nanliu/archive",
       "version_requirement": ">=0.3.0"
     } 
   ]
